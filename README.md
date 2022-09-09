@@ -3,6 +3,7 @@
 ## _Installation_
 
 #### Install node modules
+ :warning: It will take little amount of time to install **node_modules**!
 ```
 npm install
 ```
