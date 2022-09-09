@@ -1,0 +1,22 @@
+{
+  "name": "cat-card-application",
+  "version": "1.0.0",
+  "description": "API for the CATAAS web app. The place of cat lovers",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Ayodya Wijesinghe",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "minimist": "^1.2.6",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
